@@ -1,2 +1,5 @@
-# odin-recipies
-Project: Recipies from the Odin Project
+# Odin-recipies
+This is Project: Recipies from the Odin Project where the objective is to build a small webpage containing recipies of your choice utilizing the following lessons
+- Lists(ordered and unordered)
+- Links & Images
+- Headings and other HTML elements
